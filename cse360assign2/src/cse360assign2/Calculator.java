@@ -1,5 +1,8 @@
-package cse360assign2;
+/* 
+ * the repository URL : https://github.com/AidouSasuto/CSE360-Assignment2-Calculator/blob/master/cse360assign2/src/cse360assign2/Calculator.java
+ */
 
+package cse360assign2;
 import java.util.Scanner;
 
 public class Calculator {
