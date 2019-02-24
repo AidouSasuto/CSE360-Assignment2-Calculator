@@ -9,7 +9,6 @@ public class Calculator {
 	
 private int total;
 private String history;
-private String menu;
 	
 	public Calculator () {
 		total = 0;  // not needed - included for clarity
